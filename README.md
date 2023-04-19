@@ -18,6 +18,3 @@
 - [ ] Objektu ģenerēšane
 - [ ] Projekta sagatavošana darbībai no darbavirsmas (.exe)
 
-
-Projekts kura ietvaros apguvu UI pirmajā Unity lekcijā 🫡
-$
