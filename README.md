@@ -1,9 +1,7 @@
-# Mr-Bean-Unity-UI
-
-## Tēma - Mr.Bean🫘
+# Tēma - Mr.Bean🫘
 ![alarm-clock-mr-bean](https://user-images.githubusercontent.com/118617121/232993740-74f85650-1345-4462-9d1d-73769f30f254.gif)
 
-## Veicamo darbu saraksts⛔
+# Veicamo darbu saraksts⛔
 - [ ] Input field pielietojums
 - [ ] Text field pielietojums
 - [ ] Button elementa pielietojums
